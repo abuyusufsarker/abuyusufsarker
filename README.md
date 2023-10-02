@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/abuyusufsarker" target="blank"><img src="https://img.shields.io/twitter/follow/abuyusufsarker?logo=twitter&style=for-the-badge" alt="abuyusufsarker" /></a> </p>
 
+[![An image of @abuyusufsarker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abuyusufsarker)](https://holopin.io/@abuyusufsarker)
+
+[![Check out abuyusufsarker's profile on stardev.io](https://stardev.io/developers/abuyusufsarker/badge/languages/country.svg)](https://stardev.io/developers/abuyusufsarker)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abuyusufsarker&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
