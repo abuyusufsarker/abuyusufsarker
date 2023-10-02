@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/abuyusufsarker/count.svg)
 
+<p align="left"> <a href="https://twitter.com/abuyusufsarker" target="blank"><img src="https://img.shields.io/twitter/follow/abuyusufsarker?logo=twitter&style=for-the-badge" alt="abuyusufsarker" /></a> </p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abuyusufsarker&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abuyusufsarker&theme=gotham&hide_border=false)<br/>
